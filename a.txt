@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A05D-DB45
+
+ Directory of C:\Prabhu\2017DevOps\SourceLib\Test2
+
+01/23/2017  05:39 PM    <DIR>          .
+01/23/2017  05:39 PM    <DIR>          ..
+01/23/2017  05:39 PM                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  147,484,532,736 bytes free
